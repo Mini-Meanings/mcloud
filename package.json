@@ -10,6 +10,7 @@
     "build-prod": "cross-env NODE_ENV=prod node build/build.js",
     "build-sit": "cross-env NODE_ENV=sit node build/build.js",
     "build-uat": "cross-env NODE_ENV=uat node build/build.js"
+    
   },
   "dependencies": {
     "axios": "^0.16.2",
